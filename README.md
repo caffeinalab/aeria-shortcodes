@@ -1,1 +1,1 @@
-# aeria-shortcodes
+# Aeria Shortcodes
