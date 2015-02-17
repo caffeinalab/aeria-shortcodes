@@ -1,0 +1,22 @@
+{
+    "name": "Aeria Shortcodes",
+    "slug": "aeria-shortcodes",
+    "download_url": "https://github.com/CaffeinaLab/aeria-shortcodes/archive/master.zip",
+
+    "version": "1.0.0",
+    "requires": "3.5",
+    "tested": "4.0",
+    "last_updated": "2015-02-17 16:00:00",
+    "upgrade_notice": "[New]",
+
+    "author": "Caffeina",
+    "author_homepage": "http://caffeina.it/",
+
+    "sections": {
+        "description": "Modular, Fast, Shortcodes Framework for advanced theme development."
+    },
+
+    "rating": 100,
+    "num_ratings": 1000,
+    "downloaded": 0
+}
