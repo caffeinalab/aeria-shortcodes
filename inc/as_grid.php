@@ -14,7 +14,7 @@ add_shortcode('row', function( $params, $content=null ) {
 
 add_shortcode( 'col', function ( $params, $content=null ) {
     extract( shortcode_atts( array(
-        'class' => 'col-xs-1'
+        'class' => 'col-md-1'
         ), $params ) );
 
     $result = '<div class="' . $class . '">';
