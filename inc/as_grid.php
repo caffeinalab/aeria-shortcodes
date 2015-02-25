@@ -5,9 +5,9 @@ add_shortcode('row', function( $params, $content=null ) {
         'class' => 'row'
     ), $params ) );
     $content = preg_replace( '/<br class="nc".\/>/', '', $content );
-    $result = '<div class="' . $class . '">';
+    $result = '<section><div class="container"><div class="' . $class . '">';
     $result .= do_shortcode( $content );
-    $result .= '</div>';
+    $result .= '</div></div></section>';
     return force_balance_tags( $result );
 });
 
