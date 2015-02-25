@@ -2,7 +2,7 @@
 /*
 Plugin Name: Aeria Shortcodes
 Description: Aeria Shortcodes
-Version: 1.0.0
+Version: 1.0.1
 Author: Caffeina srl
 Author URI: http://caffeina.it
 */

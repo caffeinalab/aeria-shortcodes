@@ -3,10 +3,10 @@
     "slug": "aeria-shortcodes",
     "download_url": "https://github.com/CaffeinaLab/aeria-shortcodes/archive/master.zip",
 
-    "version": "1.0.0",
+    "version": "1.0.1",
     "requires": "3.5",
     "tested": "4.0",
-    "last_updated": "2015-02-17 16:00:00",
+    "last_updated": "2015-02-25 13:00:00",
     "upgrade_notice": "[New]",
 
     "author": "Caffeina",
